@@ -1,2 +1,6 @@
-# node-design-patterns
-Coding allong with linked in learning video
+# Node.js: Design Patterns
+
+with 
+[Alex Banks](https://www.linkedin.com/in/banksalex?trk=lil_course)
+---
+
